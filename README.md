@@ -15,7 +15,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/sharvil-dhumal" target="_blank">
+  <a href="https://www.linkedin.com/in/sharvil-dhumal/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
