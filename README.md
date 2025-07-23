@@ -24,7 +24,7 @@
 
 ### 🧰 Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -51,11 +51,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharvildhumal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvildhumal&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharvildhumal" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharvildhumal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,7 +63,6 @@
 ### 🐍 GitHub Contribution Snake:
 
 <p align="center">
-  ![github-contribution-grid-snake-dark](https://github.com/sharvildhumal/sharvildhumal/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://github.com/sharvildhumal/sharvildhumal/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
