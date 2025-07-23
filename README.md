@@ -63,6 +63,6 @@
 ### 🐍 GitHub Contribution Snake:
 
 <p align="center">
-  <img src="https://github.com/sharvildhumal/sharvildhumal/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+![snake gif](https://github.com/SharvilDhumal/SharvilDhumal/blob/output/github-contribution-grid-snake.svg)
 </p>
 
