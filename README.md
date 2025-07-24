@@ -81,5 +81,6 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SharvilDhumal/SharvilDhumal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ ![Snake animation](https://raw.githubusercontent.com/SharvilDhumal/SharvilDhumal/output/github-contribution-grid-snake.svg)
+
 </p>
