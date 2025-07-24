@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sharvil Dhumal</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharvildhumal&label=Profile%20views&color=0e75b6&style=flat" alt="sharvildhumal" />
+  <img src="https://img.shields.io/badge/Profile%20Views-🔄%20dynamic-blue?style=flat-square&logo=github" alt="Profile Views" />
 </p>
 
 ---
 
 - 🌱 I’m currently learning **Angular**
+- 💼 I’m currently doing my internship
+- 💻 I love building modern, responsive web apps
 - ⚡ Fun fact: `if (!online) => gym.mode() 💪`
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sharvil-dhumal/" target="_blank">
@@ -22,7 +24,7 @@
 
 ---
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
 
 <p align="center">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
@@ -48,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvildhumal&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight" alt="Top Languages" />
@@ -60,9 +62,9 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake:
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-![snake gif](https://github.com/SharvilDhumal/SharvilDhumal/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/SharvilDhumal/SharvilDhumal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
