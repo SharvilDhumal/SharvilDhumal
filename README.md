@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharvil Dhumal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-🔄%20dynamic-blue?style=flat-square&logo=github" alt="Profile Views" />
-</p>
-
 ---
 
 - 🌱 I’m currently learning **Angular**
@@ -70,17 +66,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvildhumal&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharvildhumal&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
- ![Snake animation](https://raw.githubusercontent.com/SharvilDhumal/SharvilDhumal/output/github-contribution-grid-snake.svg)
-
 </p>
