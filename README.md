@@ -63,9 +63,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvildhumal&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharvilDhumal&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharvildhumal&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SharvilDhumal&theme=tokyonight" alt="GitHub Streak" />
 </p>
