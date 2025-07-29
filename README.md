@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sharvil Dhumal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sharvil Dhumal</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/SharvilDhumal/SharvilDhumal/main/assets/solo-levelling.gif" alt="Solo Leveling" width="180"/>
-</p>
+</p> -->
+
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Sharvil Dhumal</h1>
+      <h3>A passionate Web Developer from India</h3>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/SharvilDhumal/SharvilDhumal/main/assets/solo-levelling.gif" alt="Solo Leveling" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
