@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/SharvilDhumal/SharvilDhumal/main/assets/solo-leveling.gif" alt="Solo Leveling" width="180"/>
+  <img src="https://raw.githubusercontent.com/SharvilDhumal/SharvilDhumal/main/assets/solo-levelling.gif" alt="Solo Leveling" width="180"/>
 </p>
 
 ---
