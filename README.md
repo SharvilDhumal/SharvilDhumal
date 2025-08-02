@@ -76,10 +76,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🧠 Quote I Live By
 
-<p>
-  <a href="https://www.linkedin.com/in/sharvil-dhumal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+> *“The expert in anything was once a beginner.”*  
+> — **Helen Hayes**
