@@ -86,4 +86,29 @@
 </div>
 
 ---
+---
+
+### 📊 Detailed GitHub Stats  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharvilDhumal&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharvilDhumal&theme=tokyonight&utcOffset=5.5" alt="Commits Graph" />
+</p>
+
+---
+
+### 💡 Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 🚀 Top Contributed Repositories  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SharvilDhumal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
 
