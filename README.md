@@ -74,8 +74,6 @@
   </tr>
 </table>
 
-### 📊 Detailed GitHub Stats  
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharvilDhumal&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharvilDhumal&theme=tokyonight&utcOffset=5.5" alt="Commits Graph" />
