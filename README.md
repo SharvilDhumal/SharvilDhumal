@@ -94,9 +94,10 @@
 
 ### 🧠 Quote I Live By
 
-<div style="background-color:#1c1b29;padding:20px 25px;border-radius:12px;max-width:750px;color:#00e0b8;font-style:italic;line-height:1.6;font-size:1.05em;">
-  <span style="color:#00ffff;font-size:1.3em;">“</span>
+<div style="background: linear-gradient(135deg, #1c1b29, #242038); padding: 25px 30px; border-radius: 16px; max-width: 750px; color:#e0f7fa; font-style: italic; line-height: 1.8; font-size: 1.15em; box-shadow: 0 8px 20px rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08);">
+  <span style="color:#00ffff; font-size:1.5em;">“</span>
   <span>The expert in anything was once a beginner.</span>
-  <span style="color:#d67ad2;font-size:1.3em;">”</span>
-  <p style="margin:0;text-align:right;color:#57a6ff;font-style:normal;font-weight:400;">– Helen Hayes</p>
+  <span style="color:#ff80df; font-size:1.5em;">”</span>
+  <p style="margin:0; text-align:right; color:#80c7ff; font-style:normal; font-weight:500; font-size:0.95em;">– Helen Hayes</p>
 </div>
+
