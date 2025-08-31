@@ -74,6 +74,13 @@
   </tr>
 </table>
 
+### 📊 Detailed GitHub Stats  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharvilDhumal&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharvilDhumal&theme=tokyonight&utcOffset=5.5" alt="Commits Graph" />
+</p>
+
 ---
 
 ### 🧠 Quote I Live By
@@ -84,14 +91,6 @@
   <span style="color:#d67ad2;font-size:1.3em;">”</span>
   <p style="margin:0;text-align:right;color:#57a6ff;font-style:normal;font-weight:400;">– Helen Hayes</p>
 </div>
-
----
-### 📊 Detailed GitHub Stats  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharvilDhumal&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharvilDhumal&theme=tokyonight&utcOffset=5.5" alt="Commits Graph" />
-</p>
 
 ---
 
