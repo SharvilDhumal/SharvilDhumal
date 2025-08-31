@@ -81,16 +81,7 @@
 
 ---
 
-### 🧠 Quote I Live By
 
-<div style="background-color:#1c1b29;padding:20px 25px;border-radius:12px;max-width:750px;color:#00e0b8;font-style:italic;line-height:1.6;font-size:1.05em;">
-  <span style="color:#00ffff;font-size:1.3em;">“</span>
-  <span>The expert in anything was once a beginner.</span>
-  <span style="color:#d67ad2;font-size:1.3em;">”</span>
-  <p style="margin:0;text-align:right;color:#57a6ff;font-style:normal;font-weight:400;">– Helen Hayes</p>
-</div>
-
----
 
 ### 🚀 Top Contributed Repositories  
 
@@ -99,3 +90,13 @@
 </p>
 
 
+---
+
+### 🧠 Quote I Live By
+
+<div style="background-color:#1c1b29;padding:20px 25px;border-radius:12px;max-width:750px;color:#00e0b8;font-style:italic;line-height:1.6;font-size:1.05em;">
+  <span style="color:#00ffff;font-size:1.3em;">“</span>
+  <span>The expert in anything was once a beginner.</span>
+  <span style="color:#d67ad2;font-size:1.3em;">”</span>
+  <p style="margin:0;text-align:right;color:#57a6ff;font-style:normal;font-weight:400;">– Helen Hayes</p>
+</div>
