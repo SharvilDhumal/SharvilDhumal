@@ -7,7 +7,7 @@
       <h1>Hi 👋, I'm Sharvil Dhumal</h1>
       <p>
         I'm an enthusiastic Web Developer from India, passionate about creating modern, responsive web applications. 
-        I'm currently learning new skills .🥷
+        I'm currently learning new skills 🥷.
         I enjoy exploring new tech and building cool stuff.
       </p>
     </td>
