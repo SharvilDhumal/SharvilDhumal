@@ -26,8 +26,11 @@
 ### 💡 Quick Facts
 
 ⚙️ Currently deep-diving into modern web ecosystems
+<br>
 💻 Passionate about creating impactful and intelligent web applications
+<br>
 🚀 Constantly improving my skills in JavaScript, React, and backend development
+<br>
 🔍 Love turning ideas into real-world solutions through code
 
 ---
