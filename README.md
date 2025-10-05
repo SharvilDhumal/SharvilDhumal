@@ -26,7 +26,6 @@
 ### 💡 Quick Facts
 
 - 🌱 I’m currently learning **Angular**
-- 💼 I’m currently doing my internship
 - 💻 I love building modern, responsive web apps
 
 ---
