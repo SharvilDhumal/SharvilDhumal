@@ -25,9 +25,10 @@
 
 ### 💡 Quick Facts
 
-- 🌱 I’m currently learning **Angular**
-- 💻 I love building modern, responsive web apps
-
+-⚙️ Currently deep-diving into modern web ecosystems
+-💻 Passionate about creating impactful and intelligent web applications
+-🚀 Constantly improving my skills in JavaScript, React, and backend development
+-🔍 Love turning ideas into real-world solutions through code
 ---
 
 ### 🛠️ Tools & Technologies
